@@ -1,0 +1,11 @@
+ * Serving Flask app "server.py" (lazy loading)
+ * Environment: development
+ * Debug mode: on
+ * Running on http://10.0.0.168:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 152-707-358
+10.0.0.74 - - [15/Jul/2020 09:03:01] "[37mGET / HTTP/1.1[0m" 200 -
+10.0.0.74 - - [15/Jul/2020 09:03:11] "[37mGET / HTTP/1.1[0m" 200 -
+10.0.0.74 - - [15/Jul/2020 09:03:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+10.0.0.74 - - [15/Jul/2020 09:03:13] "[37mGET / HTTP/1.1[0m" 200 -
